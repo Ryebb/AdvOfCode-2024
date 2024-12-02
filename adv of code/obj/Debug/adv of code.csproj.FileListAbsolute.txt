@@ -1,0 +1,7 @@
+C:\Users\ryan2\source\repos\adv of code\bin\Debug\adv of code.exe.config
+C:\Users\ryan2\source\repos\adv of code\bin\Debug\adv of code.exe
+C:\Users\ryan2\source\repos\adv of code\bin\Debug\adv of code.pdb
+C:\Users\ryan2\source\repos\adv of code\obj\Debug\adv of code.csproj.AssemblyReference.cache
+C:\Users\ryan2\source\repos\adv of code\obj\Debug\adv of code.csproj.CoreCompileInputs.cache
+C:\Users\ryan2\source\repos\adv of code\obj\Debug\adv of code.exe
+C:\Users\ryan2\source\repos\adv of code\obj\Debug\adv of code.pdb
